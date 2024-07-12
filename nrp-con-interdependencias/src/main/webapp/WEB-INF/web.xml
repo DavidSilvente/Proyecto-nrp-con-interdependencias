@@ -1,0 +1,7 @@
+<web-app>
+	<servlet>
+		<servlet-name>ServletUsuario</servlet-name>
+		<servlet-class>controladores.ServletUsuario</servlet-class></servlet>
+	<servlet-mapping>
+		<servlet-name>ServletUsuario</servlet-name>
+		<url-pattern>/adam/*</url-pattern></servlet-mapping></web-app>
