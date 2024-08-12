@@ -50,7 +50,7 @@ Realicé pruebas exhaustivas para verificar el correcto funcionamiento de la apl
 ## Autor ✒️
 **David Silvente Galera**
 
-* [dsilvente2@gmail.com](dsilvente2@gmail.com)
+* [dsilvente2@gmail.com](mailto:dsilvente2@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
 * [Porfolio web](https://tu-dominio.com/)
   
