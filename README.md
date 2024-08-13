@@ -51,8 +51,8 @@ Realicé pruebas exhaustivas para verificar el correcto funcionamiento de la apl
 **David Silvente Galera**
 
 * [dsilvente2@gmail.com](mailto:dsilvente2@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-* [Porfolio web](https://tu-dominio.com/)
+* [LinkedIn](https://www.linkedin.com/in/davidsilvente/)
+* [Porfolio web](https://portfolio-davidsilventes-projects.vercel.app)
   
 ## Licencia 📄
 
